@@ -1,3 +1,15 @@
+### Citation
+```
+@misc{guda2022sentimentanalysispredictingyelp,
+      title={Sentiment Analysis: Predicting Yelp Scores}, 
+      author={Bhanu Prakash Reddy Guda and Mashrin Srivastava and Deep Karkhanis},
+      year={2022},
+      eprint={2201.07999},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2201.07999}, 
+}
+```
 ### File organization 
 
 The files in the submission are organized as follows
